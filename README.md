@@ -1,4 +1,4 @@
 {
-"vserion":"1",
+"version":"1",
 "url":"https://www.github.com"
 }
